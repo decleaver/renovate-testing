@@ -1,0 +1,4 @@
+[submodule "grype"]
+	path = grype
+	url = https://github.com/anchore/grype.git
+
